@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/FoodStore/static/css/main.4ca9e4ce.css",
+    "main.js": "/FoodStore/static/js/main.7a251dd1.js",
+    "static/media/steak.png": "/FoodStore/static/media/steak.736a2d4c90b4c3189a28.png",
+    "static/media/barbeque leg of lamb.png": "/FoodStore/static/media/barbeque leg of lamb.2d7ce0227dc47c5359cf.png",
+    "static/media/beef kofta.png": "/FoodStore/static/media/beef kofta.49896659928037a850f1.png",
+    "static/media/BbQ Pizza.png": "/FoodStore/static/media/BbQ Pizza.92560c3807f436c0b6c2.png",
+    "static/media/Sous vide octopus.png": "/FoodStore/static/media/Sous vide octopus.ebf858173827ecb2c1ba.png",
+    "static/media/burger.png": "/FoodStore/static/media/burger.80d8bb97fa263de92f9f.png",
+    "static/media/roasted crabs.png": "/FoodStore/static/media/roasted crabs.59deccb2ad6ecbd9f1f8.png",
+    "static/media/soy sauce chicken.png": "/FoodStore/static/media/soy sauce chicken.b963650dd287d329fa7f.png",
+    "static/media/waffles.png": "/FoodStore/static/media/waffles.cda9c9b7023cab5f9d97.png",
+    "static/media/smashtacos.png": "/FoodStore/static/media/smashtacos.8ae673d5e2fa760ff945.png",
+    "static/media/gliven.ttf": "/FoodStore/static/media/gliven.87322e8fb8d960b0d151.ttf",
+    "static/media/instagram.png": "/FoodStore/static/media/instagram.edb90ecc706a7a25542b.png",
+    "static/media/twitter.png": "/FoodStore/static/media/twitter.8e65601e69067aadfe55.png",
+    "static/media/user.png": "/FoodStore/static/media/user.b50d06992b0e8fa7c1b7.png",
+    "index.html": "/FoodStore/index.html",
+    "main.4ca9e4ce.css.map": "/FoodStore/static/css/main.4ca9e4ce.css.map",
+    "main.7a251dd1.js.map": "/FoodStore/static/js/main.7a251dd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ca9e4ce.css",
+    "static/js/main.7a251dd1.js"
+  ]
+}
