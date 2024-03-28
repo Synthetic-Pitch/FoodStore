@@ -1,0 +1,49 @@
+.foods{
+  height: 230px;
+  width: 100%;
+  margin: 0 auto;
+  background: white;
+  overflow: hidden;
+}
+
+.price{
+  font-size: 16px;
+  background: rgb(192, 172, 153);
+  width: 23%;
+  margin-left: 5px;
+  padding: 0px 10px;
+  border-radius: 8px;
+  height: 10%;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+
+}
+.product-image{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  height: 50%;
+  width: 100%;
+}
+
+.product-image img{
+  height: 100%;
+  width: 95%;
+}
+
+.foods h2{
+  margin: 0px;
+  height: 20%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+}
+.foods button{
+  height: 20%;
+  width: 100%;
+  border: none;
+  background: #b6b6b6;
+}
